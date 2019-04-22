@@ -39,6 +39,13 @@ echo GenerateShanghaiEduID("110101200101016874")
 ?>
 ```
 
+#### C# example
+get UUIDv5.cs from https://github.com/shanghai-edu/eduid
+```C#
+string UUID = UUIDv5.GenerateShanghaiEduID("110101200101016874");
+Console.WriteLine(UUID);
+```
+
 ### tools
 ```
 # tool -h
