@@ -1,0 +1,7 @@
+E:\GitHub\newcas\EduIDDemo\bin\Debug\EduIDDemo.exe.config
+E:\GitHub\newcas\EduIDDemo\bin\Debug\EduIDDemo.exe
+E:\GitHub\newcas\EduIDDemo\bin\Debug\EduIDDemo.pdb
+E:\GitHub\newcas\EduIDDemo\obj\Debug\EduIDDemo.csprojAssemblyReference.cache
+E:\GitHub\newcas\EduIDDemo\obj\Debug\EduIDDemo.csproj.CoreCompileInputs.cache
+E:\GitHub\newcas\EduIDDemo\obj\Debug\EduIDDemo.exe
+E:\GitHub\newcas\EduIDDemo\obj\Debug\EduIDDemo.pdb
