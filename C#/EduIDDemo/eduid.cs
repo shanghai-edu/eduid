@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 
-public class UUIDv5
+public class eduid
 {
     const string NAMESPACE_DNS = "6ba7b810-9dad-11d1-80b4-00c04fd430c8";
 

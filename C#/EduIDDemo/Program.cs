@@ -11,7 +11,7 @@ namespace EduIDDemo
         static void Main(string[] args)
         {
 
-            string UUID = UUIDv5.GenerateShanghaiEduID("110101200101016874");
+            string UUID = eduid.GenerateShanghaiEduID("110101200101016874");
             Console.WriteLine(UUID);
         }
     }

@@ -40,16 +40,16 @@ echo GenerateShanghaiEduID("110101200101016874")
 ```
 
 #### C# example
-get UUIDv5.cs from https://github.com/shanghai-edu/eduid
+get eduid.cs from https://github.com/shanghai-edu/eduid
 ```C#
-string UUID = UUIDv5.GenerateShanghaiEduID("110101200101016874");
+string UUID = eduid.GenerateShanghaiEduID("110101200101016874");
 Console.WriteLine(UUID);
 ```
 
 #### Java example
-get UUIDv5.java from https://github.com/shanghai-edu/eduid
+get eduid.java from https://github.com/shanghai-edu/eduid
 ```Java
-String result = UUIDv5.GenerateShanghaiEduID("110101200101016874");
+String result = eduid.GenerateShanghaiEduID("110101200101016874");
 System.out.println(result);
 ```
 
