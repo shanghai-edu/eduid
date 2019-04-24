@@ -46,6 +46,13 @@ string UUID = UUIDv5.GenerateShanghaiEduID("110101200101016874");
 Console.WriteLine(UUID);
 ```
 
+#### Java example
+get UUIDv5.java from https://github.com/shanghai-edu/eduid
+```Java
+String result = UUIDv5.GenerateShanghaiEduID("110101200101016874");
+System.out.println(result);
+```
+
 ### tools
 ```
 # tool -h
