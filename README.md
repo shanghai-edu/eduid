@@ -53,8 +53,15 @@ String result = eduid.GenerateShanghaiEduID("110101200101016874");
 System.out.println(result);
 ```
 
-### tools
+#### MySQL example
+import eduid.sql from https://github.com/shanghai-edu/eduid
+```sql
+select eduid('110101200101016874') as eduid
+-- 4788e071-bdc7-54a8-a187-0c6d6da9a237
 ```
+
+### tools
+```bash
 # tool -h
 Usage of tool:
   -s string
