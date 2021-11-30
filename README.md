@@ -68,6 +68,6 @@ Usage of tool:
         string to generate eduid
   -v    show version
 
-# tool -s test
-27d4894e-1a2b-5bfa-b70b-aab721ab2016
+# tool -s 110101200101016874
+4788e071-bdc7-54a8-a187-0c6d6da9a237
 ```
